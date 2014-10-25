@@ -1,0 +1,21 @@
+/*body {*/
+    /*font-family: sans-serif;*/
+    /*color: #333;*/
+/*}*/
+/*#cotainaer {*/
+    /*width: 400px;*/
+    /*margin: auto;*/
+/*}*/
+/*h1 {font-size: 5mm;}*/
+body {
+    font-family: sans-serif;
+    color: #333;
+}
+#container {
+    width: 400px;
+    margin: auto;
+}
+
+h1{
+    font-size: 5em;
+}
